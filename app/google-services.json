@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660525149835",
+    "firebase_url": "https://fir-itbruh.firebaseio.com",
+    "project_id": "fir-itbruh",
+    "storage_bucket": "fir-itbruh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660525149835:android:e07bc8e992a373cb",
+        "android_client_info": {
+          "package_name": "luthra.harshit.phonenumberauthwrtfireb0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660525149835-igj9lctmsqtq9pte48v0nmphflbdinu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "luthra.harshit.phonenumberauthwrtfireb0",
+            "certificate_hash": "f1388e2be285e04adbad88cd4dd2e00a15b4c088"
+          }
+        },
+        {
+          "client_id": "660525149835-1nd0uo8mp8evpi7au197b8stin4is8na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dm9v0q2Hz95pUU5S6IyHgy36aVEg80U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660525149835-1nd0uo8mp8evpi7au197b8stin4is8na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
